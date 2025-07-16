@@ -434,7 +434,7 @@ limitations under the License.
     <cats-effect-version>3.6.1</cats-effect-version>
     <dev-zio-version>2.1.19</dev-zio-version>
     <zio-cats-version>23.1.0.5</zio-cats-version> <!-- gives fs2 3.10.2, but doobie 1.0.0-RC5 is in 3.9.3 -->
-    <zio-json-version>0.7.43</zio-json-version>
+    <zio-json-version>0.7.44</zio-json-version>
     <izumi-version>3.0.5</izumi-version>
     <magnolia-version>1.3.18</magnolia-version>
     <difflicious-version>0.4.3</difflicious-version>
